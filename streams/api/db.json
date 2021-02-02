@@ -2,33 +2,30 @@
   "streams": [
     {
       "title": "My Stream",
-      "description": "Test!",
+      "description": "This is a great stream!",
       "id": 1
     },
     {
-      "title": "My Stream",
-      "description": "Test!",
+      "title": "Other Stream",
+      "description": "Here is another stream!",
       "id": 2
     },
     {
-      "title": "My Stream",
-      "description": "Test",
+      "title": "My Streaming Component Reuse",
+      "description": "This stream is about refactoring!!!!!",
       "id": 3
     },
     {
-      "title": "ccc",
-      "description": "ccc",
+      "title": "This is the stream I created ",
+      "description": "Can only edit it or delete after Log In!!!",
+      "userId": "102515105384626756946",
       "id": 4
     },
     {
-      "title": "ddd",
-      "description": "ddd",
+      "title": "How to access the live stream",
+      "description": "rtmp://localhost/live/STREAM_NAME (Change the Stream_name to ID)",
+      "userId": "102515105384626756946",
       "id": 5
-    },
-    {
-      "title": "Reuse",
-      "description": "anlKNDSlknaslkdnlk",
-      "id": 8
     }
   ]
 }
